@@ -1,0 +1,7 @@
+dependencies:
+- name: istio-init
+  version: "1.1.4"
+  repository: "https://gcsweb.istio.io/gcs/istio-release/releases/1.1.4/charts/"
+- name: istio
+  version: "1.1.4"
+  repository: "https://gcsweb.istio.io/gcs/istio-release/releases/1.1.4/charts/"
